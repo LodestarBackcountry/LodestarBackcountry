@@ -2,7 +2,7 @@
 
 ### Experiential goods from Canada’s wild places.
 
-We turn field discoveries and backcountry stories into thoughtful goods for kitchens, camps, and curious people.
+Lodestar turns field discoveries and backcountry stories into thoughtful goods for kitchens, camps, and curious people.
 
 ## Current field release
 
@@ -21,7 +21,7 @@ This profile is the home for the projects and practical resources behind Lodesta
 - Useful tools and workflows developed as we grow the brand
 - The systems behind our marketing work, documented and shared in stages
 
-We’ll publish each project with clear context, practical instructions, and notes on what we learned—so it’s useful whether you’re a maker, a small brand, or simply curious about what can grow from a journey outdoors.
+I’ll publish each project with clear context, practical instructions, and notes on what I’ve learned, so it’s useful whether you’re a maker, a small brand, or simply curious about what can grow from a journey outdoors.
 
 ## Follow the trail
 
@@ -30,4 +30,4 @@ We’ll publish each project with clear context, practical instructions, and not
 
 ---
 
-*Made in Canada, inspired by the wild places we explore.*
+*Made in Canada, inspired by the wild places I explore.*
